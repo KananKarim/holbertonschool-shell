@@ -4,3 +4,4 @@ chmod u+x file - make file executable
 cd~ - go home dir
 ls -l - show dir in a long format
 ls -la - show also hidden file in long format
+ls -lna - Long format,with user and group IDs displayed numerically,And hidden files (starting with .)
