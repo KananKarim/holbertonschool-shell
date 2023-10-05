@@ -3,3 +3,4 @@ wc -l file - show how many file your script consist
 chmod u+x file - make file executable
 cd~ - go home dir
 ls -l - show dir in a long format
+ls -la - show also hidden file in long format
